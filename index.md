@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Rob de Boer - Learning Github Pages Blog
 
-I'm glad you are here. I plan to talk about ...
+I will be exploring how to make a:
+- Blog post on Pages
